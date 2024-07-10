@@ -9,11 +9,6 @@ Get/api/users/:id
 id -> variable/ DYnamic
 
 
-Get / users  - LIst all the users
-Get / user1  - get the user with id-1
-Dynamic PAth PArameters
-Get/api/users/:id
-id -> variable/ DYnamic
 
 POst / users - creste new user 
 
